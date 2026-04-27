@@ -13,7 +13,7 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
 ]
 dependencies = [
-    '''pydantic==2.7.0''',
+    '''pydantic==2.13.3''',
 ]
 
 [tool.coverage.report]
